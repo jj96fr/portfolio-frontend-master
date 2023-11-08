@@ -55,9 +55,9 @@ export default function About() {
                        del marketing decido che devo dare una svolta alla mia vita lavorativa
                        mi affido ad EPICODE per un bootcamp intensivo come full stack developer 
                        per raggiiungere le competenze necessarie con le tecnologie sotto elencate 
-                       per poi continuare a specializzarmii privatamente. Il mio obbiettivo e' continuare a 
-coltivare questa passione nel ammbito IT.Potete contattarmi per lavori azendali o privat come e-commerce, 
-stiiti web professionali o privati e gestione database.
+                       per poi continuare a specializzarmi privatamente. Il mio obbiettivo e' continuare a 
+coltivare questa passione nel ambito IT.Potete contattarmi per lavori azendali o privati come e-commerce, 
+stiti web professionali o privati e gestione database.
 
                        
                     </p>
