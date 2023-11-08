@@ -72,7 +72,7 @@ stiiti web professionali o privati e gestione database.
                             text="Scarica il mio CV"
                             icon={<SiDocusign />} // Assumi che esista un'icona di download che vuoi usare
                             type="btn"
-                            link="/public/FedericoReiffCV.pdf" // Aggiorna con il percorso corretto del CV
+                            link="/FedericoReiffCV.pdf" // Aggiorna con il percorso corretto del CV
                             download
                         />
                 </motion.div>
