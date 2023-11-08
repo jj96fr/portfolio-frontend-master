@@ -54,7 +54,7 @@ export default function About() {
                        dopo una serie di studi e percorsi lavorativi nel capo della comunicazione e 
                        del marketing decido che devo dare una svolta alla mia vita lavorativa
                        mi affido ad EPICODE per un bootcamp intensivo come full stack developer 
-                       per raggiiungere le competenze necessarie con le tecnologie sotto elencate 
+                       per raggiungere le competenze necessarie con le tecnologie sotto elencate 
                        per poi continuare a specializzarmi privatamente. Il mio obbiettivo e' continuare a 
 coltivare questa passione nel ambito IT.Potete contattarmi per lavori azendali o privati come e-commerce, 
 stiti web professionali o privati e gestione database.
