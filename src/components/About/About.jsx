@@ -57,7 +57,7 @@ export default function About() {
                        per raggiungere le competenze necessarie con le tecnologie sotto elencate 
                        per poi continuare a specializzarmi privatamente. Il mio obbiettivo e' continuare a 
 coltivare questa passione nel ambito IT.Potete contattarmi per lavori azendali o privati come e-commerce, 
-stiti web professionali o privati e gestione database.
+siti web professionali o privati e gestione database.
 
                        
                     </p>
