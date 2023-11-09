@@ -26,7 +26,7 @@ const projects = [
 ];
 
 const Projects = () => (
-  <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap' }}>
+  <div id="Projects" style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap' }}>
     {projects.map((project, index) => (
       <ProjectCard
         key={index}

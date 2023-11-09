@@ -133,7 +133,7 @@ l-6 52 -50 0 -50 0 7 -37z m84 5 c-2 -18 -11 -24 -35 -26 -30 -3 -33 -1 -33
                         </li>
 
                         <li className="nav-item">
-                            <a href="#projects">
+                            <a href="#Projects">
                                 Progetti
                                 <div className='line'></div>
                             </a>
