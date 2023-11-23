@@ -17,6 +17,13 @@ const projects = [
     url: 'https://www.linkedin.com/feed/update/urn:li:activity:7120745310594736128/'
   },
   {
+    title: 'Medium',
+    image: '/Medium.png',
+    description: 'Copia del noto sito web di informazioni Medium'
+    ,
+    url: 'https://www.linkedin.com/feed/update/urn:li:activity:7133402854874042370/'
+  },
+  {
     title: 'Hotel con spa',
     image: '/hotel.png',
     description: 'Progetto di un sito web di un hotel completo con gestione prenotazioni e gestione pagamenti'
