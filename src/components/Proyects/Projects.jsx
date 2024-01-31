@@ -30,6 +30,20 @@ const projects = [
     ,
     url: 'https://www.linkedin.com/feed/update/urn:li:activity:7115289491057037312/'
   },
+  {
+    title: 'Better call saul',
+    image: '/bcs.png',
+    description: 'React app realizzata per un ipotetico studio legale di Saul Goodman della nota serie Better call Saul'
+    ,
+    url: 'https://www.linkedin.com/feed/update/urn:li:activity:7152672083422982144/'
+  },
+  {
+    title: 'Sito politico',
+    image: '/politico.png',
+    description: 'Sito web realizzato come idea per un ipotetico candidato alle elezioni immagini e contenuti generatida AI'
+    ,
+    url: 'https://www.linkedin.com/feed/update/urn:li:activity:7157724487709278210/'
+  },
 ];
 
 const Projects = () => (
